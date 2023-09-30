@@ -1,0 +1,5 @@
+fastapi
+mysql-connector-python
+uvicorn
+pydantic
+line-bot-sdk==2.4.2
